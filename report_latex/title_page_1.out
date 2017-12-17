@@ -1,0 +1,13 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Dynamics of the Acrobot}{}% 2
+\BOOKMARK [1][-]{section.3}{Trajectory Optimization}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{Cost Function}{section.3}% 4
+\BOOKMARK [2][-]{subsection.3.2}{Lagrangian Constrained Optimization}{section.3}% 5
+\BOOKMARK [2][-]{subsection.3.3}{Chebyshev Approximation}{section.3}% 6
+\BOOKMARK [2][-]{subsection.3.4}{Linear Quadratic Regulator \(LQR\)}{section.3}% 7
+\BOOKMARK [1][-]{section.4}{Results}{}% 8
+\BOOKMARK [2][-]{subsection.4.1}{Fully-actuated Acrobot}{section.4}% 9
+\BOOKMARK [2][-]{subsection.4.2}{Underactuated Acrobot}{section.4}% 10
+\BOOKMARK [3][-]{subsubsection.4.2.1}{Stabilization}{subsection.4.2}% 11
+\BOOKMARK [3][-]{subsubsection.4.2.2}{Swing up}{subsection.4.2}% 12
+\BOOKMARK [1][-]{section.5}{Reinforcement Learning}{}% 13

@@ -1,0 +1,501 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.7 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\sortlist[entry]{none/global/}
+  \entry{mingcong}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=HT}{%
+         family={Henmi},
+         family_i={H\bibinitperiod},
+         given={T.},
+         given_i={T\bibinitperiod},
+      }}%
+      {{hash=DM}{%
+         family={Deng},
+         family_i={D\bibinitperiod},
+         given={Mingcong},
+         given_i={M\bibinitperiod},
+      }}%
+      {{hash=IA}{%
+         family={Inoue},
+         family_i={I\bibinitperiod},
+         given={A.},
+         given_i={A\bibinitperiod},
+      }}%
+    }
+    \keyw{Lyapunov methods;feedback;linear systems;motion control;nonlinear
+  control systems;position control;robots;Acrobot swing-up controller
+  design;Lyapunov theorem;horizontal bar gymnast;linearized
+  sub-systems;nonlinear feedback;nonlinear underactuated control system;partial
+  linearization;partial linearization controller;pumping energy;remote network
+  control problem;time-variant reference function;Actuators;Control
+  systems;Costs;Design methodology;Humans;Linear feedback control
+  systems;Motion control;Numerical simulation;Robot kinematics;Technological
+  innovation}
+    \strng{namehash}{HTDMIA1}
+    \strng{fullhash}{HTDMIA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{2006 IEEE International Conference on Networking, Sensing
+  and Control}
+    \verb{doi}
+    \verb 10.1109/ICNSC.2006.1673118
+    \endverb
+    \field{pages}{60\bibrangedash 65}
+    \field{title}{Swing-up Control of the Acrobot Using a New Partial
+  Linearization Controller Based on the Lyapunov Theorem}
+    \field{year}{2006}
+  \endentry
+
+  \entry{tedrake}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=TR}{%
+         family={Tedrake},
+         family_i={T\bibinitperiod},
+         given={Russ},
+         given_i={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TR1}
+    \strng{fullhash}{TR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{howpublished}{\url{http://underactuated.mit.edu/}}
+    \field{title}{Underactuated Robotics: Algorithms for Walking, Running,
+  Swimming, Flying, and Manipulation (Course Notes for MIT 6.832)}
+  \endentry
+
+  \entry{spong}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SMW}{%
+         family={Spong},
+         family_i={S\bibinitperiod},
+         given={M.\bibnamedelima W.},
+         given_i={M\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+    }
+    \keyw{feedback;linearisation techniques;mobile robots;Acrobot;partial
+  feedback linearization;swing up control problem;two-degree-of-freedom planar
+  robot;underactuated mechanical systems;zero dynamics;Actuators;Algorithm
+  design and analysis;Control systems;Equations;Linear feedback control
+  systems;Mechanical systems;Mobile robots;Orbital robotics;Robot
+  kinematics;Robotics and automation}
+    \strng{namehash}{SMW1}
+    \strng{fullhash}{SMW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1109/37.341864
+    \endverb
+    \field{issn}{1066-033X}
+    \field{number}{1}
+    \field{pages}{49\bibrangedash 55}
+    \field{title}{The swing up control problem for the Acrobot}
+    \field{volume}{15}
+    \field{journaltitle}{IEEE Control Systems}
+    \field{year}{1995}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{1}{inproceedings}{}
+    \name{author}{5}{}{%
+      {{hash=DY}{%
+         family={Dong},
+         family_i={D\bibinitperiod},
+         given={Y.},
+         given_i={Y\bibinitperiod},
+      }}%
+      {{hash=WZ}{%
+         family={Wang},
+         family_i={W\bibinitperiod},
+         given={Z.},
+         given_i={Z\bibinitperiod},
+      }}%
+      {{hash=FZ}{%
+         family={Feng},
+         family_i={F\bibinitperiod},
+         given={Z.},
+         given_i={Z\bibinitperiod},
+      }}%
+      {{hash=WD}{%
+         family={Wang},
+         family_i={W\bibinitperiod},
+         given={D.},
+         given_i={D\bibinitperiod},
+      }}%
+      {{hash=FH}{%
+         family={Fang},
+         family_i={F\bibinitperiod},
+         given={H.},
+         given_i={H\bibinitperiod},
+      }}%
+    }
+    \keyw{Actuators;Control systems;Convergence;Design methodology;Lyapunov
+  method;Mechanical systems;Potential energy;Power engineering and
+  energy;Robust stability;Stability analysis;Pendubot;toverhead
+  crane;under-actuated mechanical system}
+    \strng{namehash}{DY+1}
+    \strng{fullhash}{DYWZFZWDFH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{2008 Congress on Image and Signal Processing}
+    \verb{doi}
+    \verb 10.1109/CISP.2008.304
+    \endverb
+    \field{pages}{139\bibrangedash 143}
+    \field{title}{Energy-Based Control for a Class of Under-Actuated Mechanical
+  Systems}
+    \field{volume}{3}
+    \field{year}{2008}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{2}{inproceedings}{}
+    \name{author}{4}{}{%
+      {{hash=IA}{%
+         family={Inoue},
+         family_i={I\bibinitperiod},
+         given={A.},
+         given_i={A\bibinitperiod},
+      }}%
+      {{hash=DM}{%
+         family={Deng},
+         family_i={D\bibinitperiod},
+         given={M.},
+         given_i={M\bibinitperiod},
+      }}%
+      {{hash=HS}{%
+         family={Hara},
+         family_i={H\bibinitperiod},
+         given={S.},
+         given_i={S\bibinitperiod},
+      }}%
+      {{hash=HT}{%
+         family={Henmi},
+         family_i={H\bibinitperiod},
+         given={T.},
+         given_i={T\bibinitperiod},
+      }}%
+    }
+    \keyw{control system synthesis;motion control;robot
+  dynamics;stability;acrobot;stabilizing control system;stabilizing
+  controller;swing-up controller;Control systems;Design engineering;Educational
+  institutions;Hydrogen;Linear feedback control systems;Motion
+  control;Nonlinear control systems;Numerical simulation;Systems engineering
+  and theory;Weight control;Acrobot;energy control;partial feedback
+  linearization;simultaneous swing-up;stabilization}
+    \strng{namehash}{IA+1}
+    \strng{fullhash}{IADMHSHT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{2007 IEEE International Conference on Networking, Sensing
+  and Control}
+    \verb{doi}
+    \verb 10.1109/ICNSC.2007.372839
+    \endverb
+    \field{pages}{559\bibrangedash 561}
+    \field{title}{Swing-up and stabilizing control system design for an
+  Acrobot}
+    \field{year}{2007}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{3}{article}{}
+    \name{author}{4}{}{%
+      {{hash=LXZ}{%
+         family={Lai},
+         family_i={L\bibinitperiod},
+         given={X.\bibnamedelima Z.},
+         given_i={X\bibinitperiod\bibinitdelim Z\bibinitperiod},
+      }}%
+      {{hash=SJH}{%
+         family={She},
+         family_i={S\bibinitperiod},
+         given={J.\bibnamedelima H.},
+         given_i={J\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=YSX}{%
+         family={Yang},
+         family_i={Y\bibinitperiod},
+         given={S.\bibnamedelima X.},
+         given_i={S\bibinitperiod\bibinitdelim X\bibinitperiod},
+      }}%
+      {{hash=WM}{%
+         family={Wu},
+         family_i={W\bibinitperiod},
+         given={M.},
+         given_i={M\bibinitperiod},
+      }}%
+    }
+    \keyw{Lyapunov methods;manipulators;motion control;nonlinear control
+  systems;optimal control;stability;LaSalle invariance
+  principle;acrobots;global stability;motion control;nonlinear
+  function;nonsmooth Lyapunov function;pendubots;underactuated two-link
+  manipulators;unified control strategy;weak-control Lyapunov
+  function;Acrobot;LaSalle's invariance principle;nonsmooth Lyapunov function
+  (NSLF);singularity;stabilization;underactuated manipulator;weak-control
+  Lyapunov function (WCLF)}
+    \strng{namehash}{LXZ+1}
+    \strng{fullhash}{LXZSJHYSXWM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1109/TSMCB.2008.2005910
+    \endverb
+    \field{issn}{1083-4419}
+    \field{number}{2}
+    \field{pages}{389\bibrangedash 398}
+    \field{title}{Comprehensive Unified Control Strategy for Underactuated
+  Two-Link Manipulators}
+    \field{volume}{39}
+    \field{journaltitle}{IEEE Transactions on Systems, Man, and Cybernetics,
+  Part B (Cybernetics)}
+    \field{year}{2009}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{4}{inproceedings}{}
+    \name{author}{4}{}{%
+      {{hash=DZ}{%
+         family={Dengfeng},
+         family_i={D\bibinitperiod},
+         given={Z.},
+         given_i={Z\bibinitperiod},
+      }}%
+      {{hash=ZZ}{%
+         family={Zhifei},
+         family_i={Z\bibinitperiod},
+         given={Z.},
+         given_i={Z\bibinitperiod},
+      }}%
+      {{hash=SL}{%
+         family={Shiya},
+         family_i={S\bibinitperiod},
+         given={L.},
+         given_i={L\bibinitperiod},
+      }}%
+      {{hash=XZ}{%
+         family={Xiaogang},
+         family_i={X\bibinitperiod},
+         given={Z.},
+         given_i={Z\bibinitperiod},
+      }}%
+    }
+    \keyw{Lyapunov methods;control system synthesis;manipulators;motion
+  control;nonlinear control systems;pole assignment;position
+  control;stability;LaSalle invariance principle;acrobot manipulator;departed
+  domain control strategy;firing control law;nonlinear systems;poles
+  placement;posture control;swing-up control;underactuated two-link
+  manipulator;weak-control Lyapunov
+  function(WCLF);Firing;Manipulators;Mathematical model;Numerical
+  stability;Simulation;Switches;acrobot;lyapunov principle;poles
+  placement;stabilization;underactuated manipulator}
+    \strng{namehash}{DZ+1}
+    \strng{fullhash}{DZZZSLXZ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{2017 3rd IEEE International Conference on Control Science
+  and Systems Engineering (ICCSSE)}
+    \verb{doi}
+    \verb 10.1109/CCSSE.2017.8087884
+    \endverb
+    \field{pages}{5\bibrangedash 9}
+    \field{title}{An improved departed domain control strategy for acrobot}
+    \field{year}{2017}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{5}{article}{}
+    \name{author}{4}{}{%
+      {{hash=NT}{%
+         family={Nam},
+         family_i={N\bibinitperiod},
+         given={T.},
+         given_i={T\bibinitperiod},
+      }}%
+      {{hash=MT}{%
+         family={Mita},
+         family_i={M\bibinitperiod},
+         given={T.},
+         given_i={T\bibinitperiod},
+      }}%
+      {{hash=PI}{%
+         family={Pantelidis},
+         family_i={P\bibinitperiod},
+         given={Ioannis},
+         given_i={I\bibinitperiod},
+      }}%
+      {{hash=YM}{%
+         family={Yamakita},
+         family_i={Y\bibinitperiod},
+         given={Masaki},
+         given_i={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{NT+1}
+    \strng{fullhash}{NTMTPIYM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Journal of the Robotics Society of Japan}
+    \field{pages}{85\bibrangedash 88}
+    \field{title}{Swing-up Control and Singular Problem of an Acrobot System}
+    \field{volume}{20(1)}
+    \field{year}{2002}
+  \endentry
+
+  \entry{6}{inproceedings}{}
+    \name{author}{6}{}{%
+      {{hash=HT}{%
+         family={Henmi},
+         family_i={H\bibinitperiod},
+         given={T.},
+         given_i={T\bibinitperiod},
+      }}%
+      {{hash=WT}{%
+         family={Wada},
+         family_i={W\bibinitperiod},
+         given={T.},
+         given_i={T\bibinitperiod},
+      }}%
+      {{hash=DM}{%
+         family={Deng},
+         family_i={D\bibinitperiod},
+         given={Mingcong},
+         given_i={M\bibinitperiod},
+      }}%
+      {{hash=IA}{%
+         family={Inoue},
+         family_i={I\bibinitperiod},
+         given={A.},
+         given_i={A\bibinitperiod},
+      }}%
+      {{hash=UN}{%
+         family={Ueki},
+         family_i={U\bibinitperiod},
+         given={N.},
+         given_i={N\bibinitperiod},
+      }}%
+      {{hash=HY}{%
+         family={Hirashima},
+         family_i={H\bibinitperiod},
+         given={Y.},
+         given_i={Y\bibinitperiod},
+      }}%
+    }
+    \keyw{humanoid robots;motion control;nonlinear control
+  systems;Acrobot;horizontal bar gymnast model;nonlinear control
+  scheme;swing-up control;Actuators;Biological system modeling;Control
+  systems;Humans;Joints;Linear feedback control systems;Mobile robots;Motion
+  analysis;Motion control;Orbital robotics}
+    \strng{namehash}{HT+1}
+    \strng{fullhash}{HTWTDMIAUNHY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{2004 5th Asian Control Conference (IEEE Cat. No.04EX904)}
+    \field{pages}{1071\bibrangedash 1076 Vol.2}
+    \field{title}{Swing-up control of an Acrobot having a limited range of
+  joint angle of two links}
+    \field{volume}{2}
+    \field{year}{2004}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{chebyshev}{article}{}
+    \name{author}{2}{}{%
+      {{hash=VJ}{%
+         family={Vlassenbroeck},
+         family_i={V\bibinitperiod},
+         given={J.},
+         given_i={J\bibinitperiod},
+      }}%
+      {{hash=DRV}{%
+         family={Dooren},
+         family_i={D\bibinitperiod},
+         given={R.\bibnamedelima Van},
+         given_i={R\bibinitperiod\bibinitdelim V\bibinitperiod},
+      }}%
+    }
+    \keyw{control system analysis;nonlinear control systems;optimal
+  control;performance index;Chebyshev coefficients;Chebyshev series;boundary
+  conditions;linear quadratic control;nonlinear optimal control;performance
+  index;system dynamics;Boundary conditions;Chebyshev approximation;Control
+  systems;Dentistry;Differential equations;Dynamic programming;Integral
+  equations;Nonlinear dynamical systems;Optimal control;Polynomials}
+    \strng{namehash}{VJDRV1}
+    \strng{fullhash}{VJDRV1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1109/9.192187
+    \endverb
+    \field{issn}{0018-9286}
+    \field{number}{4}
+    \field{pages}{333\bibrangedash 340}
+    \field{title}{A Chebyshev technique for solving nonlinear optimal control
+  problems}
+    \field{volume}{33}
+    \field{journaltitle}{IEEE Transactions on Automatic Control}
+    \field{year}{1988}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{lagrange_interpolation}{misc}{}
+    \name{author}{2}{}{%
+      {{hash=AB}{%
+         family={Archer},
+         family_i={A\bibinitperiod},
+         given={Branden},
+         given_i={B\bibinitperiod},
+      }}%
+      {{hash=WEW}{%
+         family={Weisstein},
+         family_i={W\bibinitperiod},
+         given={Eric\bibnamedelima W.},
+         given_i={E\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ABWEW1}
+    \strng{fullhash}{ABWEW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+  \field{howpublished}{\url{http://mathworld.wolfram.com/LagrangeInterpolatingPolynomial.html}}
+    \field{title}{Lagrange Interpolating Polynomial}
+  \endentry
+
+  \entry{sontag}{book}{}
+    \name{author}{1}{}{%
+      {{hash=SE}{%
+         family={Sontag},
+         family_i={S\bibinitperiod},
+         given={Eduardo},
+         given_i={E\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{SE1}
+    \strng{fullhash}{SE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Mathematical Control Theory: Deterministic Finite Dimensional
+  Systems.}
+    \field{year}{1998}
+  \endentry
+\endsortlist
+\endinput
